@@ -1,0 +1,10 @@
+{
+  "name": "Herbert Halibut Audio",
+  "description": "Audio used from the game Herbert Halibut",
+  "author": "Truly Loco",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
