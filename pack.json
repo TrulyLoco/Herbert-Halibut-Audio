@@ -1,7 +1,7 @@
 {
   "name": "menu_music.mp3",
   "description": "Audio used from the game Herbert Halibut",
-  "author": "Truly Loco",
+  "author": "TrulyLoco",
   "version": "v1.0",
   "manifest_version": 2,
   "music": true,
